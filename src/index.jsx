@@ -1,5 +1,3 @@
-const user = {
-    name : 'Daniel',
-}
+import React from "react";
+import {App} from './App'
 
-console.log(user.address?.street)
